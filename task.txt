@@ -1,0 +1,13 @@
+Quản lý ĐV:
+	Thêm quá trình đào tạo chuyên môn nghiệp vụ
+	Thêm quan hệ gia đình
+	Thêm khen thưởng
+	Thêm kỷ luật
+	In sheet trich_yeu ra pdf, các mục nối tiếp nhau
+	Thêm người khai, chi bộ, cấp ký vào phía dưới
+
+Quản lý công văn:
+	sheet cvdi_new:
+		Nơi ban hành: lấy danh sách từ setting
+
+	ẩn cột các nút menu khi in BK_CV_DI, BK_CV_DEN
