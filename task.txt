@@ -11,3 +11,15 @@ Quản lý công văn:
 		Nơi ban hành: lấy danh sách từ setting
 
 	ẩn cột các nút menu khi in BK_CV_DI, BK_CV_DEN
+
+
+7/6
+bo nen xam o bcvc_di/den
+xuat file pdf bcct_cv_di
+bcct:
+	cho nut hien tat ca sau khi loc
+	 
+
+Ket qua xy ly: xu ly xong
+				dang xu ly
+
