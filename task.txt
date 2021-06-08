@@ -9,12 +9,13 @@ Quản lý ĐV:
 Quản lý công văn:
 	sheet cvdi_new:
 		Nơi ban hành: lấy danh sách từ setting -> done
-	ẩn cột các nút menu khi in BK_CV_DI, BK_CV_DEN
+		Ẩn cột các nút menu khi in BK_CV_DI, BK_CV_DEN -> done
+
 	7/6
-	bỏ nền xám ở sheet bccv_di/den -> done
-	Xuất file pdf bcct_cv_di/den
-	bcct:
-		cho nút bỏ lọc để hiển thị tất cả -> done
-		cho cột ngày tháng vào bảng -> done
-		kết quả xử lý: xu ly xong/dang xu ly -> done
+		Bỏ nền xám ở sheet bccv_di/den -> done
+		Xuất file pdf bcct_cv_di/den
+		bcct:
+			cho nút bỏ lọc để hiển thị tất cả -> done
+			cho cột ngày tháng vào bảng -> done
+			kết quả xử lý: xu ly xong/dang xu ly -> done
 					
