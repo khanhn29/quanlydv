@@ -13,7 +13,7 @@ Quản lý công văn:
 
 	7/6
 		Bỏ nền xám ở sheet bccv_di/den -> done
-		Xuất file pdf bcct_cv_di/den
+		Xuất file pdf bcct_cv_di/den -> done
 		bcct:
 			cho nút bỏ lọc để hiển thị tất cả -> done
 			cho cột ngày tháng vào bảng -> done
