@@ -1,8 +1,8 @@
 Quản lý ĐV:
 	Thêm quá trình đào tạo chuyên môn nghiệp vụ -> done
-	Thêm quan hệ gia đình
-	Thêm khen thưởng
-	Thêm kỷ luật
+	Thêm quan hệ gia đình -> done
+	Thêm khen thưởng -> done
+	Thêm kỷ luật -> done
 	In sheet trich_yeu ra pdf, các mục nối tiếp nhau -> done
 	Thêm người khai, chi bộ, cấp ký vào phía dưới -> done
 
