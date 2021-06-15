@@ -18,4 +18,9 @@ Quản lý công văn:
 			cho nút bỏ lọc để hiển thị tất cả -> done
 			cho cột ngày tháng vào bảng -> done
 			kết quả xử lý: xu ly xong/dang xu ly -> done
-					
+	15/6
+		Menu khi ấn vào QTCT thì sẽ vào sheet them_QTCT, sheet QTCT là sheet dữ liệu nên sẽ ẩn
+		Các sheet QTCT, QTĐT, Kyluat, QHGĐ, KQXL khi ấn vào nội dung quản lý đảng viên (?) sẽ vào sheet có chứ thêm... để sửa trên đó: ấn vào nội dung quản lý đảng viên là ấn vào đâu
+		Trong sheet DSDV khi ấn vào tên đảng viên sẽ cho hiện trích yếu luôn
+		Sheet trích yếu sẽ không sửa được, nếu sửa thì sẽ sửa trong các sheet them...
+		Từng qua nội dung khi ấn vào thì sẽ hiện lên trong từng sheet them... để sửa: giải thích lại chỗ này
